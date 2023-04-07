@@ -3,7 +3,11 @@
   "name": "C0nsiglier3",
   "version": "1.0.1",
   "description": "Get passwords leaksfrom the Breach Directory API",
-  "permissions": ["storage"],
+  "icons": {
+     "42": "images/icon3.png",
+     "128": "images/icon4.png"
+  },
+  "permissions": ["storage","activeTab","chrome://extensions/"],
   "background": {
     "scripts": ["background.js"],
     "persistent": false
