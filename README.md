@@ -29,7 +29,7 @@ This extension made for google-chrome allows you to make requests to the breachd
 ¿How it works?
 
 
-![App Screenshot](https://raw.githubusercontent.com/BLY-Coder/Consigliere-Extension/master/images/Lvel.png)
+![App Screenshot](https://raw.githubusercontent.com/BLY-Coder/Consigliere-Extension/master/images/example.png)
 
 
 ## License
