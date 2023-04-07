@@ -6,7 +6,11 @@ function showResults(results) {
   results.forEach(item => {
     const row = tableBody.insertRow();
     const cell = row.insertCell();
+    const sourceCell = row.insertCell();
+
+
     cell.innerHTML = item.line;
+    sourceCell.innerHTML = item.source;
   });
 }
 
