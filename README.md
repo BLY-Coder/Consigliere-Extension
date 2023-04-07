@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://raw.githubusercontent.com/BLY-Coder/Consigliere-Extension/master/images/Lvel.png)
 
 
 # Consigliere
@@ -29,7 +29,7 @@ This extension made for google-chrome allows you to make requests to the breachd
 ¿How it works?
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/BLY-Coder/Consigliere-Extension/master/images/Lvel.png)
 
 
 ## License
