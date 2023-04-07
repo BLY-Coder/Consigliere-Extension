@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Breach Directory Extension</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="popup.css">
+  </head>
+  <body>
+    <div class="container">
+      <img src="images/icon.png" alt="MDN">
+      <h1>C0nsiglier3-H4nt3r</h1>
+      <form id="search-form">
+        <label for="email-input">Email address:</label>
+        <input type="text" id="email-input" name="email" required>
+        <label for="api-key-input">API Key:</label>
+        <input type="text" id="api-key-input" name="api-key" required>
+        <button type="button" id="submit-btn">Search</button>
+      </form>
+      <div class="result-container">
+        <table>
+          <thead>
+            <tr>
+              <th>Breached data</th>
+            </tr>
+          </thead>
+          <tbody id="breach-results">
+            <tr>
+              <td>No results yet</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <script src="popup.js"></script>
+  </body>

@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Breach Directory Extension",
+  "version": "1.0",
+  "description": "Get data from the Breach Directory API",
+  "permissions": ["storage"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+    "128": "images/icon.png"
+  }
+  },
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+}
