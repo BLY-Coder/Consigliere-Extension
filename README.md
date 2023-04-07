@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/BLY-Coder/Consigliere-Extension/master/images/Lvel.png)
+![Logo](https://raw.githubusercontent.com/BLY-Coder/Consigliere-Extension/master/images/logo.png)
 
 
 # Consigliere
