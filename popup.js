@@ -10,7 +10,7 @@ function showResults(results) {
 
 
     cell.innerHTML = item.line;
-    sourceCell.innerHTML = item.source;
+    sourceCell.innerHTML = item.sources;
   });
 }
 
